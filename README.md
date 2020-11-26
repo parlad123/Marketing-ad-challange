@@ -12,13 +12,22 @@
 
 ### Data Attributes:
 
-##### **Daily Time Spent on site:** user's daily time spent on site in minutes
-##### **Age:** average age of user in year
-##### **Area Income:** Average geographical area  income of user
-##### **Daily Internet Use:** average minutes a day consumer is on the internet
-##### **Topic Line:** title of the advertisement 
-##### **City:** city of user
-##### **Male:** 1 for male and 0 for female
-##### **Country:** country of consumer
-##### **Timestamp:** time at which user clicked on Ad or closed window
-##### **Clicked on Ad:** 1 for clicked and 0 for not clicked
+**Daily Time Spent on site:** user's daily time spent on site in minutes
+
+**Age:** average age of user in year
+
+**Area Income:** Average geographical area  income of user
+
+**Daily Internet Use:** average minutes a day consumer is on the internet
+
+**Topic Line:** title of the advertisement 
+
+**City:** city of user
+
+**Male:** 1 for male and 0 for female
+
+**Country:** country of consumer
+
+**Timestamp:** time at which user clicked on Ad or closed window
+
+**Clicked on Ad:** 1 for clicked and 0 for not clicked
